@@ -28,14 +28,21 @@ for문으로 순회하면서 switch문으로 answer에 순서대로 추가
 */
 
 
+const win = {
+    "2": "0",
+    "0": "5",
+    "5": "2",
+}
+
 function solution(rsp) {
-  let arr = {
-      2: 0,
-      0: 5,
-      5: 2
-  };
-  
-  return [...rsp].map(v => arr[v]).join("");
+    var answer = '';
+    
+    for (let i=0; i<rsp.length; i++) {
+        const item = rsp[i];
+        answer += win[item];
+    }
+    
+    return answer;
 }
 
 //항상 같은 값이 대응되므로 객체형 자료로 만들어서 키에 대응하는 값 반환
