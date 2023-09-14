@@ -6,7 +6,7 @@
 function solution(n) {
   var answer = -1;
   
-  for (let i=1; i<8000000; i++) {
+  for (let i=1; i<=n; i++) {
       if (n === i*i) {
           answer = (i+1)*(i+1);
           break;
