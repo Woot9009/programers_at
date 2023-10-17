@@ -7,7 +7,7 @@ programers algorithm test
 cf. 분수의 덧셈, 피자나눠먹기(2)
 <br><br>
 
-#### break; continue; false true를 활용한 중복요소 제거
+#### break; continue; boolean을 활용한 중복요소 제거
 cf. 모음제거, 중복된 문자 제거
 <br><br>
 
