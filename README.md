@@ -1,7 +1,7 @@
 # programers_at
 programers algorithm test
 
-<<lv.0>>
+## <<lv.0>>
 
 #### while(true){} 개념 잡기 (왜 for문으로 하면 안될까...?)
 cf. 분수의 덧셈, 피자나눠먹기(2)
@@ -20,9 +20,10 @@ cf. 외계어 사전.js
 <br><br>
 
 #### 옹알이(1).js분석
+<br><br><br><br>
 
 
-<<lv.1>>
+## <<lv.1>>
 
 #### reduce연습
 cf. 내적.js, 최소직사각형.js, 명예의 전당(1).js
@@ -46,5 +47,23 @@ cf. 푸드 파이트 대회.js
 
 #### map과 reduce
 cf. 추억 점수.js
+<br><br><br><br>
+
+
+## <<lv.2>>
+
+#### min max와 스프레드 연산자
+최댓값과 최솟값.js
 <br><br>
 
+#### map 간단하지만 좋은 설명. string객체 매서드 활용
+JadenCase 문자열 만들기.js
+<br><br>
+
+#### reduce비교
+최솟값 만들기.js
+<br><br>
+
+#### 배열을 스택처럼 다루기
+짝지어 제거하기.js
+<br><br>
