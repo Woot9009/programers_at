@@ -49,7 +49,7 @@ cf. 푸드 파이트 대회.js
 cf. 추억 점수.js
 <br><br>
 
-#### - 객체의 추가&Oject순회, 이중배열의 sort메서드
+#### - 객체의 추가&Object순회, 이중배열의 sort메서드
 cf. 실패율.js
 <br><br><br><br>
 
